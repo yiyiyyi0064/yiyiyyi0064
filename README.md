@@ -1,6 +1,6 @@
 # Hi 👋, I'm Wangwei Yi
 
-### Stay curious. Stay exploring.
+### Patience! The windmill never strays in search of the wind.
 
 - 🌱 I'm currently learning **ML/DL/LLM**
 
