@@ -2,7 +2,7 @@
 
 ### Patience! The windmill never strays in search of the wind.
 
-- 🌱 I'm currently learning **ML/DL/LLM**
+- 🌱 I'm currently learning **LLMSys**
 
 - 📫 How to reach me **yiyiyyi333@gmail.com**
 
